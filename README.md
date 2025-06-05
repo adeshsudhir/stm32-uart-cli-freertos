@@ -28,7 +28,7 @@ This project implements a basic UART-based Command Line Interface (CLI) using Fr
 
 Below is a screenshot of the working CLI interaction captured via UART terminal:
 
-![Debug Screenshot](debug%20output.png)
+![Debug Screenshot](debug_output.png)
 
 ---
 
